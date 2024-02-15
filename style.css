@@ -1,0 +1,49 @@
+
+.index1 {
+    padding-top: 30px;
+}
+body {
+    background-color:darkslategrey;
+}
+a {
+    color:bisque;
+}
+.sec1,.sec2,.sec3,.sec4,.sec5,.sec6 {
+    padding-left: 20%;
+    padding-right: 20%;
+    border-style:groove;
+    border-color:rgb(51, 82, 82);
+    background-color: rgb(76, 107, 107);
+    border-width:1px;
+    padding-top: 10px;
+    padding-bottom:10px;
+}
+.index2 {
+    background-color:rgb(58, 87, 87);
+    border-radius: 30%;
+}
+.index3 {
+    background-color:rgb(58, 87, 87);
+    border-radius: 30%;
+}
+nav {
+    align: top;
+}
+.index4 {
+    background-color:rgb(58, 87, 87);
+    border-radius: 30%;
+}
+.image1 {
+    width:300px;
+    float:right;
+    padding-right:20px;
+    align:top;
+    margin:5px;
+    border-radius:20%;
+}
+h1 {
+    color:bisque;
+}
+.img2,.img3,.img4 {
+    width:200px;
+}
